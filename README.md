@@ -7,7 +7,6 @@
 [![PyTorch](https://img.shields.io/badge/Framework-PyTorch-EE4C2C?logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![Pandas](https://img.shields.io/badge/Library-Pandas-150458?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/datasets/laotse/credit-risk-dataset)
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 ## 📌 Project Overview
 The objective of this project is to build a **Deep Learning Model** capable of predicting whether a loan applicant is likely to default (fail to pay) or not.

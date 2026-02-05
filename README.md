@@ -61,6 +61,7 @@ The model was trained for **500 Epochs**. Below is the evaluation result on the 
 
 ### Training Loss Curve
 ![Loss Curve](LossCurve.png)
+
 *The chart illustrates the decrease in loss over 500 epochs, showing the model learning progress.*
 
 ## 🚀 How to Run
